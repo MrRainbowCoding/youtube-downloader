@@ -29,7 +29,9 @@ This Node.js script allows you to download the audio from a YouTube video in MP3
 
 ## Credits
 
-This script was created by [ChatGPT and Perplexity](https://github.com/ChatGPT and https://www.perplexity.ai/) based on the original script by [Giraffe Academy](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg). It is licensed under the [MIT License](https://github.com/ChatGPT/youtube-audio-downloader/blob/main/LICENSE).
+- [Perplexity](https://www.perplexity.ai/) (Script Creator)
+- [ChatGPT](https://github.com/ChatGPT) (Script Helper) based on the original script by [Giraffe Academy](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg). It is licensed under the [MIT License](https://github.com/ChatGPT/youtube-audio-downloader/blob/main/LICENSE).
+- Me (Major Helper)
 
 The following packages were used to create this script:
 
