@@ -26,3 +26,14 @@ This Node.js script allows you to download the audio from a YouTube video in MP3
 - The script requires the `ffmpeg` library to be installed as a system library on your computer.
 - On Windows, the script requires a special configuration to run `ffmpeg` due to Electron packaging.
 - The temporary `.mp4` file used during the conversion process will be deleted automatically after the audio file is created.
+
+## Credits
+
+This script was created by [ChatGPT and Perplexity](https://github.com/ChatGPT and https://www.perplexity.ai/) based on the original script by [Giraffe Academy](https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg). It is licensed under the [MIT License](https://github.com/ChatGPT/youtube-audio-downloader/blob/main/LICENSE).
+
+The following packages were used to create this script:
+
+- [ytdl-core](https://www.npmjs.com/package/ytdl-core)
+- [readline](https://nodejs.org/api/readline.html)
+- [@ffmpeg-installer/ffmpeg](https://www.npmjs.com/package/@ffmpeg-installer/ffmpeg)
+- [fluent-ffmpeg](https://www.npmjs.com/package/fluent-ffmpeg)
