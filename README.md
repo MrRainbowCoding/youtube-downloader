@@ -15,7 +15,7 @@ This Node.js script allows you to download the audio from a YouTube video in MP3
 ## Usage
 
 1. Open a terminal and navigate to the directory where the script is located
-2. Run `node index.js` to start the script
+2. Run `node main.js` to start the script
 3. Enter the YouTube video URL when prompted
 4. Enter the file name to save the audio when prompted (do not include the file extension, it will be automatically set to `.mp3`)
 5. Wait for the audio to be downloaded and converted to MP3 format
